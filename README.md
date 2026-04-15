@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/banner.png](https://github.com/huichapan97-dot/QA-Testing-ecommerce/blob/main/ChatGPT%20Image%2013%20abr%202026%2C%2023_08_38.png)" width="100%" />
-</p>
+![banner](https://raw.githubusercontent.com/huichapan97-dot/QA-Testing-ecommerce/main/ChatGPT%20Image%2013%20abr%202026%2008_38.png)
 # 🛒 QA Testing – E-commerce Project
 
 Proyecto de testing enfocado en validar la calidad de una plataforma e-commerce mediante pruebas manuales y de API.
